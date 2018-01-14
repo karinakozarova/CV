@@ -15,7 +15,7 @@ Junior JavaScript developer looking to further improve skills by joining a web d
 * PostgreSQL
 
 ## Experience
-###JavaScript Student, Founders and Coders 
+### JavaScript Student, Founders and Coders 
 June 2017 - October 2017
 Reinforced Full-Stack development skills over a sixteen-week course, collaborated in Agile teams using Git, including in a Product Owner role. Trained in User Experience, using Figma, Sketch and InVision.
 
